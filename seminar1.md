@@ -27,3 +27,7 @@ git add "filename"
 
 git add .
 ```
+send file to repository
+```
+git commit -m “message”
+```
