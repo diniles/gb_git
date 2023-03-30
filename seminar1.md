@@ -20,8 +20,10 @@ git init
 ```
 ## Working with commits
 
+add file(s)
+
 ```
-git add "gilename"
-or
-git add . (for all files)
+git add "filename"
+
+git add .
 ```
