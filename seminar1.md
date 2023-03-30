@@ -11,3 +11,10 @@
 git config --global user.name «yourname»
 git config --global user.email youremail@example.com
 ```
+## Подготовка репозитория
+
+Создать новый каталог и в нём (или в текущем каталоге) запустить команду:
+
+```
+git init
+```
