@@ -18,3 +18,10 @@ git config --global user.email youremail@example.com
 ```
 git init
 ```
+## Working with commits
+
+```
+git add "gilename"
+or
+git add . (for all files)
+```
