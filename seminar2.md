@@ -140,11 +140,11 @@ id sem consectetuer libero luctus adipiscing.
         class="publisher-nav-color" data-nav="conversation">
       <span class="comment-count">0
 комментариев</span>
-      <span class="comment-countplaceholder">Комментарии</span>
+      <span class="comment-countplaceholder">Комментарии</span>
       </a>
     </li>
     <li class="dropdown user-menu" data-role="logout">
-      <a href="#" class="dropdown-toggle" datatoggle="dropdown">
+      <a href="#" class="dropdown-toggle" data toggle="dropdown">
       <span class="dropdown-toggle-wrapper">
       <span>
       Войти
