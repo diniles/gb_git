@@ -33,7 +33,7 @@
       <a href="#" class="dropdown-toggle" data toggle="dropdown">
       <span class="dropdown-toggle-wrapper">
       <span>
-      Войти
+        Войти
       </span>
       </span>
       <span class="caret"></span>
